@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items">
+        <item>Troca de aparelho</item>
+        <item>Nova instalacao</item>
+        <item>Retirada de aparelho</item>
+    </string-array>
+</resources>
